@@ -19,6 +19,7 @@ Indiana is traditionally a reliably Republican state. However, in 2008, Barack O
 ## **2. Data & Methods**
 
 **Data Sources:** County-level presidential election results, poverty rates, income, population, and urban/rural indicators.
+
 **Tools:** Python (Pandas, NumPy), Matplotlib/Seaborn, GeoPandas, correlation and R² analysis.
 
 **Methods:**
@@ -75,7 +76,3 @@ The 2008 Democratic win in Indiana was driven by **urban and demographic factors
 * Explore spatial autocorrelation and regional clustering.
 * Incorporate turnout and migration data for deeper behavioral insights.
 * Develop an interactive county-level dashboard for public exploration.
-
----
-
-If you'd like, I can format this as a **PDF**, **LaTeX paper**, or **GitHub README**.
